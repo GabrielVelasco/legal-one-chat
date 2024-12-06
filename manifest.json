@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Process Chat Extension",
+  "version": "1.0",
+  "description": "Adiciona funcionalidade de chat em processos",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://zarroadvogados.novajus.com.br/processos/processos/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
