@@ -8,12 +8,12 @@ import cors from 'cors';
 
 // firebase config object... (sua configuração do firebase)
 const firebaseConfig = {
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+    apiKey: "<sua-api-key>",
+    authDomain: "<seu-auth-domain>",
+    projectId: "<seu-project-id>",
+    storageBucket: "<seu-storage-bucket>",
+    messagingSenderId: "<seu-messaging-sender-id>",
+    appId: "<seu-app-id>"
 };
 
 // initialize firebase app and database
