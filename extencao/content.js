@@ -9,7 +9,7 @@ Pode enviar uma mensagem (faz um POST /proc/ID_PROCESSO/chat)
 */
 
 var lastMsgListSize = 0;
-var baseUrl = 'https://bosta.sa-east-1.elasticbeanstalk.com';
+var baseUrl = 'https://meuservidor.chatproclegalone.com';
 
 function pegarIDProcesso() {
     const url = window.location.href;
