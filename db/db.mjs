@@ -6,7 +6,7 @@ import { getDatabase, ref, get, push, set } from "https://www.gstatic.com/fireba
 import express from 'express';
 import cors from 'cors';
 
-// firebase config object...
+// firebase config object... (sua configuração do firebase)
 const firebaseConfig = {
     apiKey: "",
     authDomain: "",
