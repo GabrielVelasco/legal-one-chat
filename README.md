@@ -12,17 +12,6 @@ Este projeto fornece uma extensão do Chrome que adiciona dinamicamente um pop-u
 
 ---
 
-## Índice
-1. [Demonstração](#demonstração)
-2. [Como Funciona](#como-funciona)
-3. [Instruções de Configuração](#instruções-de-configuração)
-4. [Executando o Servidor](#executando-o-servidor)
-5. [Customização da Extensão](#customização-da-extensão)
-6. [Contribuições](#contribuições)
-7. [Licença](#licença)
-
----
-
 ## Demonstração
 Aqui está um exemplo do pop-up de chat em ação:
 
